@@ -1,6 +1,6 @@
-# 机械臂+大模型+多模态=人机协作具身智能体 （即将更新三款机械臂的实现代码）
+# 机械臂+大模型+多模态=人机协作具身智能体
 
-1. 研华+奥比+大象 大模型AI协作机械臂
+1. 研华+奥比+大象 大模型AI协作机械臂 (即将更新)
 
 
 
@@ -10,11 +10,7 @@
 
 听得懂人话、看得懂图像、指哪打哪的机械臂是怎么炼成的：https://www.bilibili.com/video/BV1Cn4y1R7V2
 
-同济子豪兄亚马逊中国峰会演讲：多模态生成式AI的N种玩法：https://www.bilibili.com/video/BV1Pi421U7D6
-
 首发实测！百度文心大模型4.0 Turbo接入机械臂智能体：https://www.bilibili.com/video/BV16M4m1m7Z1
-
-【通义灵码】AI帮我啃祖传代码是什么体验？：https://www.bilibili.com/video/BV1Qz421i7Nd
 
 我的抓药机械臂做了一个违背祖宗的决定：https://www.bilibili.com/video/BV1yr421K7Qs
 
