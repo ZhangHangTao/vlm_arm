@@ -19,8 +19,6 @@ YI_KEY = "1eb9bxxxxxx91b0e43f8f"
 QW_KEY = "sk-3accxxxxxfd915210"
 # 百度智能云千帆ModelBuilder
 # https://qianfan.cloud.baidu.com
-#QIANFAN_ACCESS_KEY = "ALTAKRELRxSapDDBCwrLSjMvFd"
-#QIANFAN_SECRET_KEY = "3737d9da82de4f259db7a597586d33ba"
 QIANFAN_ACCESS_KEY = "ALTAKxxxxxx3D87xN"
 QIANFAN_SECRET_KEY = "91a84415xxxxx1e1"
 
