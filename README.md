@@ -1,8 +1,9 @@
 # 机械臂+大模型+多模态=人机协作具身智能体
 
-1. NVIDIA jetson Orin + 奥比中光相机 + Ur3e协作机械臂 (见UR3e + Orbbec 335L文件夹)
-2. 2
-3. 3
+三套代码已经全部更新完毕
+1. NVIDIA jetson Nano + 奥比中光相机 + Ur3e协作机械臂 (见UR3e + Orbbec 335L文件夹)
+2. NVIDIA jetson Nano + 奥比中光相机 + 大象机械臂320 M5 (见Elephant 320M5 + Orbbec 335L文件夹)
+3. 树莓派 + 摄像头法兰 + 大象机械臂280pi (见Elephant 280pi文件夹)
 
 
 
